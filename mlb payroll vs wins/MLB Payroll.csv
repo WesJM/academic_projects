@@ -1,0 +1,301 @@
+Season,Team,League,Division,Payroll,Win_Percent
+2022,Arizona Diamondbacks,National,West,"75,993,000",0.457
+2022,Atlanta Braves,National,East,"173,935,000",0.623
+2022,Baltimore Orioles,American,East,"30,221,000",0.512
+2022,Boston Red Sox,American,East,"195,166,000",0.481
+2022,Chicago Cubs,National,Central,"130,560,000",0.457
+2022,Chicago White Sox,American,Central,"181,661,000",0.5
+2022,Cincinnati Reds,National,Central,"99,580,000",0.383
+2022,Cleveland Guardians,American,Central,"42,310,000",0.568
+2022,Colorado Rockies,National,West,"129,452,000",0.42
+2022,Detroit Tigers,American,Central,"116,040,000",0.407
+2022,Houston Astros,American,West,"163,940,000",0.654
+2022,Kansas City Royals,American,Central,"74,110,000",0.401
+2022,Los Angeles Angels,American,West,"169,413,000",0.451
+2022,Los Angeles Dodgers,National,West,"277,108,000",0.685
+2022,Miami Marlins,National,East,"69,000,000",0.426
+2022,Milwaukee Brewers,National,Central,"122,281,000",0.531
+2022,Minnesota Twins,American,Central,"110,860,000",0.481
+2022,New York Mets,National,East,"253,120,000",0.623
+2022,New York Yankees,American,East,"240,291,000",0.611
+2022,Oakland Athletics,American,West,"32,548,000",0.37
+2022,Philadelphia Phillies,National,East,"221,738,000",0.537
+2022,Pittsburgh Pirates,National,Central,"37,875,000",0.383
+2022,San Diego Padres,National,West,"208,773,000",0.549
+2022,San Francisco Giants,National,West,"142,293,000",0.5
+2022,Seattle Mariners,American,West,"92,746,000",0.556
+2022,St. Louis Cardinals,National,Central,"150,747,000",0.574
+2022,Tampa Bay Rays,American,East,"75,348,000",0.531
+2022,Texas Rangers,American,West,"134,961,000",0.42
+2022,Toronto Blue Jays,American,East,"168,071,000",0.568
+2022,Washington Nationals,National,East,"114,623,000",0.34
+2021,Arizona Diamondbacks,National,West,"89,077,000",0.321
+2021,Atlanta Braves,National,East,"134,459,000",0.547
+2021,Baltimore Orioles,American,East,"45,701,000",0.321
+2021,Boston Red Sox,American,East,"180,262,000",0.568
+2021,Chicago Cubs,National,Central,"149,666,000",0.438
+2021,Chicago White Sox,American,Central,"125,988,000",0.574
+2021,Cincinnati Reds,National,Central,"118,748,000",0.512
+2021,Cleveland Guardians,American,Central,"46,833,000",0.494
+2021,Colorado Rockies,National,West,"103,987,000",0.46
+2021,Detroit Tigers,American,Central,"80,399,000",0.475
+2021,Houston Astros,American,West,"171,019,000",0.586
+2021,Kansas City Royals,American,Central,"87,779,000",0.457
+2021,Los Angeles Angels,American,West,"177,353,000",0.475
+2021,Los Angeles Dodgers,National,West,"235,413,000",0.654
+2021,Miami Marlins,National,East,"49,425,000",0.414
+2021,Milwaukee Brewers,National,Central,"87,569,000",0.586
+2021,Minnesota Twins,American,Central,"121,004,000",0.451
+2021,New York Mets,National,East,"167,415,000",0.475
+2021,New York Yankees,American,East,"191,206,000",0.568
+2021,Oakland Athletics,American,West,"74,615,000",0.531
+2021,Philadelphia Phillies,National,East,"174,009,000",0.506
+2021,Pittsburgh Pirates,National,Central,"35,905,000",0.377
+2021,San Diego Padres,National,West,"171,687,000",0.488
+2021,San Francisco Giants,National,West,"127,890,000",0.66
+2021,Seattle Mariners,American,West,"64,554,000",0.556
+2021,St. Louis Cardinals,National,Central,"135,047,000",0.556
+2021,Tampa Bay Rays,American,East,"60,389,000",0.617
+2021,Texas Rangers,American,West,"84,869,000",0.37
+2021,Toronto Blue Jays,American,East,"137,133,000",0.562
+2021,Washington Nationals,National,East,"161,908,000",0.401
+2020,Arizona Diamondbacks,National,West,"64,202,000",0.417
+2020,Atlanta Braves,National,East,"66,275,000",0.583
+2020,Baltimore Orioles,American,East,"23,919,000",0.417
+2020,Boston Red Sox,American,East,"84,478,000",0.4
+2020,Chicago Cubs,National,Central,"76,167,000",0.567
+2020,Chicago White Sox,American,Central,"51,405,000",0.583
+2020,Cincinnati Reds,National,Central,"53,316,000",0.517
+2020,Cleveland Guardians,American,Central,"37,643,000",0.583
+2020,Colorado Rockies,National,West,"60,330,000",0.433
+2020,Detroit Tigers,American,Central,"43,070,000",0.397
+2020,Houston Astros,American,West,"81,849,000",0.483
+2020,Kansas City Royals,American,Central,"35,632,000",0.433
+2020,Los Angeles Angels,American,West,"69,282,000",0.433
+2020,Los Angeles Dodgers,National,West,"105,747,000",0.717
+2020,Miami Marlins,National,East,"28,561,000",0.517
+2020,Milwaukee Brewers,National,Central,"39,405,000",0.483
+2020,Minnesota Twins,American,Central,"48,748,000",0.6
+2020,New York Mets,National,East,"80,297,000",0.433
+2020,New York Yankees,American,East,"110,853,000",0.55
+2020,Oakland Athletics,American,West,"35,521,000",0.6
+2020,Philadelphia Phillies,National,East,"74,605,000",0.467
+2020,Pittsburgh Pirates,National,Central,"24,771,000",0.317
+2020,San Diego Padres,National,West,"69,466,000",0.617
+2020,San Francisco Giants,National,West,"71,171,000",0.483
+2020,Seattle Mariners,American,West,"48,422,000",0.45
+2020,St. Louis Cardinals,National,Central,"70,453,000",0.517
+2020,Tampa Bay Rays,American,East,"28,735,000",0.667
+2020,Texas Rangers,American,West,"63,687,000",0.367
+2020,Toronto Blue Jays,American,East,"50,989,000",0.533
+2020,Washington Nationals,National,East,"66,526,000",0.433
+2019,Arizona Diamondbacks,National,West,"107,902,000",0.525
+2019,Atlanta Braves,National,East,"113,376,000",0.599
+2019,Baltimore Orioles,American,East,"72,683,000",0.333
+2019,Boston Red Sox,American,East,"202,922,000",0.519
+2019,Chicago Cubs,National,Central,"205,557,000",0.519
+2019,Chicago White Sox,American,Central,"88,312,000",0.447
+2019,Cincinnati Reds,National,Central,"126,423,000",0.463
+2019,Cleveland Guardians,American,Central,"118,992,000",0.574
+2019,Colorado Rockies,National,West,"145,933,000",0.438
+2019,Detroit Tigers,American,Central,"101,923,000",0.292
+2019,Houston Astros,American,West,"159,720,000",0.66
+2019,Kansas City Royals,American,Central,"96,547,000",0.364
+2019,Los Angeles Angels,American,West,"158,879,000",0.444
+2019,Los Angeles Dodgers,National,West,"152,120,000",0.654
+2019,Miami Marlins,National,East,"71,240,000",0.352
+2019,Milwaukee Brewers,National,Central,"121,530,000",0.549
+2019,Minnesota Twins,American,Central,"113,327,000",0.623
+2019,New York Mets,National,East,"142,149,000",0.531
+2019,New York Yankees,American,East,"206,085,000",0.636
+2019,Oakland Athletics,American,West,"91,318,000",0.599
+2019,Philadelphia Phillies,National,East,"140,712,000",0.5
+2019,Pittsburgh Pirates,National,Central,"74,808,000",0.426
+2019,San Diego Padres,National,West,"74,034,000",0.432
+2019,San Francisco Giants,National,West,"178,271,000",0.475
+2019,Seattle Mariners,American,West,"138,865,000",0.42
+2019,St. Louis Cardinals,National,Central,"158,370,000",0.562
+2019,Tampa Bay Rays,American,East,"53,445,000",0.593
+2019,Texas Rangers,American,West,"106,018,000",0.481
+2019,Toronto Blue Jays,American,East,"63,171,000",0.414
+2019,Washington Nationals,National,East,"161,715,000",0.574
+2018,Arizona Diamondbacks,National,West,"132,500,000",0.506
+2018,Atlanta Braves,National,East,"120,540,000",0.556
+2018,Baltimore Orioles,American,East,"143,090,000",0.29
+2018,Boston Red Sox,American,East,"235,650,000",0.667
+2018,Chicago Cubs,National,Central,"183,460,000",0.583
+2018,Chicago White Sox,American,Central,"72,180,000",0.383
+2018,Cincinnati Reds,National,Central,"101,190,000",0.414
+2018,Cleveland Guardians,American,Central,"134,350,000",0.562
+2018,Colorado Rockies,National,West,"141,340,000",0.558
+2018,Detroit Tigers,American,Central,"129,920,000",0.395
+2018,Houston Astros,American,West,"160,040,000",0.636
+2018,Kansas City Royals,American,Central,"129,920,000",0.358
+2018,Los Angeles Angels,American,West,"175,100,000",0.494
+2018,Los Angeles Dodgers,National,West,"186,140,000",0.564
+2018,Miami Marlins,National,East,"98,640,000",0.391
+2018,Milwaukee Brewers,National,Central,"90,240,000",0.589
+2018,Minnesota Twins,American,Central,"131,910,000",0.481
+2018,New York Mets,National,East,"154,610,000",0.475
+2018,New York Yankees,American,East,"168,540,000",0.617
+2018,Oakland Athletics,American,West,"68,530,000",0.599
+2018,Philadelphia Phillies,National,East,"96,850,000",0.494
+2018,Pittsburgh Pirates,National,Central,"87,880,000",0.509
+2018,San Diego Padres,National,West,"96,130,000",0.407
+2018,San Francisco Giants,National,West,"208,510,000",0.451
+2018,Seattle Mariners,American,West,"162,480,000",0.549
+2018,St. Louis Cardinals,National,Central,"161,010,000",0.543
+2018,Tampa Bay Rays,American,East,"78,730,000",0.556
+2018,Texas Rangers,American,West,"144,000,000",0.414
+2018,Toronto Blue Jays,American,East,"162,316,000",0.451
+2018,Washington Nationals,National,East,"181,590,000",0.506
+2017,Arizona Diamondbacks,National,West,"93,258,000",0.574
+2017,Atlanta Braves,National,East,"112,438,000",0.444
+2017,Baltimore Orioles,American,East,"163,677,000",0.463
+2017,Boston Red Sox,American,East,"199,805,000",0.574
+2017,Chicago Cubs,National,Central,"172,190,000",0.568
+2017,Chicago White Sox,American,Central,"99,120,000",0.414
+2017,Cincinnati Reds,National,Central,"93,769,000",0.42
+2017,Cleveland Guardians,American,Central,"124,861,000",0.63
+2017,Colorado Rockies,National,West,"130,964,000",0.537
+2017,Detroit Tigers,American,Central,"199,751,000",0.395
+2017,Houston Astros,American,West,"124,344,000",0.623
+2017,Kansas City Royals,American,Central,"140,925,000",0.494
+2017,Los Angeles Angels,American,West,"160,375,000",0.494
+2017,Los Angeles Dodgers,National,West,"242,066,000",0.642
+2017,Miami Marlins,National,East,"111,881,000",0.475
+2017,Milwaukee Brewers,National,Central,"63,061,000",0.531
+2017,Minnesota Twins,American,Central,"108,078,000",0.525
+2017,New York Mets,National,East,"155,187,000",0.432
+2017,New York Yankees,American,East,"201,540,000",0.562
+2017,Oakland Athletics,American,West,"81,738,000",0.463
+2017,Philadelphia Phillies,National,East,"111,378,000",0.407
+2017,Pittsburgh Pirates,National,Central,"100,576,000",0.463
+2017,San Diego Padres,National,West,"71,624,000",0.438
+2017,San Francisco Giants,National,West,"172,355,000",0.395
+2017,Seattle Mariners,American,West,"154,801,000",0.481
+2017,St. Louis Cardinals,National,Central,"152,453,000",0.512
+2017,Tampa Bay Rays,American,East,"69,963,000",0.494
+2017,Texas Rangers,American,West,"175,909,000",0.481
+2017,Toronto Blue Jays,American,East,"177,795,000",0.469
+2017,Washington Nationals,National,East,"167,847,000",0.599
+2016,Arizona Diamondbacks,National,West,"70,763,000",0.426
+2016,Atlanta Braves,National,East,"87,623,000",0.422
+2016,Baltimore Orioles,American,East,"115,588,000",0.549
+2016,Boston Red Sox,American,East,"182,161,000",0.574
+2016,Chicago Cubs,National,Central,"116,655,000",0.64
+2016,Chicago White Sox,American,Central,"98,713,000",0.481
+2016,Cincinnati Reds,National,Central,"116,732,000",0.42
+2016,Cleveland Guardians,American,Central,"86,339,000",0.584
+2016,Colorado Rockies,National,West,"98,261,000",0.463
+2016,Detroit Tigers,American,Central,"172,282,000",0.534
+2016,Houston Astros,American,West,"69,064,000",0.519
+2016,Kansas City Royals,American,Central,"112,915,000",0.5
+2016,Los Angeles Angels,American,West,"146,450,000",0.457
+2016,Los Angeles Dodgers,National,West,"223,352,000",0.562
+2016,Miami Marlins,National,East,"84,638,000",0.491
+2016,Milwaukee Brewers,National,Central,"98,683,000",0.451
+2016,Minnesota Twins,American,Central,"108,262,000",0.364
+2016,New York Mets,National,East,"99,626,000",0.537
+2016,New York Yankees,American,East,"213,473,000",0.519
+2016,Oakland Athletics,American,West,"80,279,000",0.426
+2016,Philadelphia Phillies,National,East,"133,048,000",0.438
+2016,Pittsburgh Pirates,National,Central,"85,886,000",0.484
+2016,San Diego Padres,National,West,"112,896,000",0.42
+2016,San Francisco Giants,National,West,"166,496,000",0.537
+2016,Seattle Mariners,American,West,"122,707,000",0.531
+2016,St. Louis Cardinals,National,Central,"120,302,000",0.531
+2016,Tampa Bay Rays,American,East,"73,650,000",0.42
+2016,Texas Rangers,American,West,"144,307,000",0.586
+2016,Toronto Blue Jays,American,East,"126,370,000",0.549
+2016,Washington Nationals,National,East,"166,011,000",0.586
+2015,Arizona Diamondbacks,National,West,"91,519,000",0.488
+2015,Atlanta Braves,National,East,"97,579,000",0.414
+2015,Baltimore Orioles,American,East,"110,146,000",0.5
+2015,Boston Red Sox,American,East,"187,407,000",0.481
+2015,Chicago Cubs,National,Central,"119,007,000",0.599
+2015,Chicago White Sox,American,Central,"115,239,000",0.469
+2015,Cincinnati Reds,National,Central,"117,197,000",0.395
+2015,Cleveland Guardians,American,Central,"86,091,000",0.503
+2015,Colorado Rockies,National,West,"102,006,000",0.42
+2015,Detroit Tigers,American,Central,"173,814,000",0.46
+2015,Houston Astros,American,West,"70,910,000",0.531
+2015,Kansas City Royals,American,Central,"113,619,000",0.586
+2015,Los Angeles Angels,American,West,"150,933,000",0.525
+2015,Los Angeles Dodgers,National,West,"272,789,000",0.568
+2015,Miami Marlins,National,East,"68,479,000",0.438
+2015,Milwaukee Brewers,National,Central,"105,003,000",0.42
+2015,Minnesota Twins,American,Central,"108,945,000",0.512
+2015,New York Mets,National,East,"101,409,000",0.556
+2015,New York Yankees,American,East,"219,282,000",0.537
+2015,Oakland Athletics,American,West,"86,087,000",0.42
+2015,Philadelphia Phillies,National,East,"135,828,000",0.389
+2015,Pittsburgh Pirates,National,Central,"88,279,000",0.605
+2015,San Diego Padres,National,West,"100,676,000",0.457
+2015,San Francisco Giants,National,West,"172,672,000",0.519
+2015,Seattle Mariners,American,West,"119,798,000",0.469
+2015,St. Louis Cardinals,National,Central,"120,869,000",0.617
+2015,Tampa Bay Rays,American,East,"76,062,000",0.494
+2015,Texas Rangers,American,West,"142,141,000",0.543
+2015,Toronto Blue Jays,American,East,"122,507,000",0.574
+2015,Washington Nationals,National,East,"164,921,000",0.512
+2014,Arizona Diamondbacks,National,West,"112,689,000",0.395
+2014,Atlanta Braves,National,East,"110,897,000",0.488
+2014,Baltimore Orioles,American,East,"107,407,000",0.593
+2014,Boston Red Sox,American,East,"162,817,000",0.438
+2014,Chicago Cubs,National,Central,"89,008,000",0.451
+2014,Chicago White Sox,American,Central,"91,159,000",0.451
+2014,Cincinnati Reds,National,Central,"112,391,000",0.469
+2014,Cleveland Guardians,American,Central,"82,535,000",0.525
+2014,Colorado Rockies,National,West,"95,832,000",0.407
+2014,Detroit Tigers,American,Central,"162,229,000",0.556
+2014,Houston Astros,American,West,"44,544,000",0.432
+2014,Kansas City Royals,American,Central,"92,034,000",0.549
+2014,Los Angeles Angels,American,West,"155,692,000",0.605
+2014,Los Angeles Dodgers,National,West,"235,295,000",0.58
+2014,Miami Marlins,National,East,"47,565,000",0.475
+2014,Milwaukee Brewers,National,Central,"103,845,000",0.506
+2014,Minnesota Twins,American,Central,"85,777,000",0.432
+2014,New York Mets,National,East,"89,052,000",0.488
+2014,New York Yankees,American,East,"203,813,000",0.519
+2014,Oakland Athletics,American,West,"83,401,000",0.543
+2014,Philadelphia Phillies,National,East,"180,053,000",0.451
+2014,Pittsburgh Pirates,National,Central,"78,112,000",0.543
+2014,San Diego Padres,National,West,"90,094,000",0.475
+2014,San Francisco Giants,National,West,"154,186,000",0.543
+2014,Seattle Mariners,American,West,"92,082,000",0.537
+2014,St. Louis Cardinals,National,Central,"111,020,000",0.556
+2014,Tampa Bay Rays,American,East,"77,063,000",0.475
+2014,Texas Rangers,American,West,"136,036,000",0.414
+2014,Toronto Blue Jays,American,East,"132,629,000",0.512
+2014,Washington Nationals,National,East,"134,704,000",0.593
+2013,Arizona Diamondbacks,National,West,"89,101,000",0.5
+2013,Atlanta Braves,National,East,"89,778,000",0.593
+2013,Baltimore Orioles,American,East,"90,993,000",0.525
+2013,Boston Red Sox,American,East,"150,656,000",0.599
+2013,Chicago Cubs,National,Central,"104,305,000",0.407
+2013,Chicago White Sox,American,Central,"119,073,000",0.389
+2013,Cincinnati Reds,National,Central,"107,491,000",0.556
+2013,Cleveland Guardians,American,Central,"77,773,000",0.568
+2013,Colorado Rockies,National,West,"71,924,000",0.457
+2013,Detroit Tigers,American,Central,"148,415,000",0.574
+2013,Houston Astros,American,West,"22,063,000",0.315
+2013,Kansas City Royals,American,Central,"81,492,000",0.531
+2013,Los Angeles Angels,American,West,"127,896,000",0.481
+2013,Los Angeles Dodgers,National,West,"216,598,000",0.568
+2013,Miami Marlins,National,East,"36,342,000",0.383
+2013,Milwaukee Brewers,National,Central,"82,977,000",0.457
+2013,Minnesota Twins,American,Central,"75,803,000",0.407
+2013,New York Mets,National,East,"73,397,000",0.457
+2013,New York Yankees,American,East,"228,835,000",0.525
+2013,Oakland Athletics,American,West,"60,665,000",0.593
+2013,Philadelphia Phillies,National,East,"165,386,000",0.451
+2013,Pittsburgh Pirates,National,Central,"79,555,000",0.58
+2013,San Diego Padres,National,West,"67,144,000",0.469
+2013,San Francisco Giants,National,West,"140,264,000",0.469
+2013,Seattle Mariners,American,West,"72,031,000",0.438
+2013,St. Louis Cardinals,National,Central,"115,222,000",0.599
+2013,Tampa Bay Rays,American,East,"57,895,000",0.564
+2013,Texas Rangers,American,West,"114,090,000",0.558
+2013,Toronto Blue Jays,American,East,"117,528,000",0.457
+2013,Washington Nationals,National,East,"114,057,000",0.531
